@@ -1,0 +1,13 @@
+Flight:2020-01-25,AA03
+{
+DepartureAirport:Nanning
+ArrivalAirport:Dalian
+DepatureTime:2020-01-25 17:19
+ArrivalTime:2020-01-25 18:47
+Plane:B7145
+{
+Type:A+350
+Seats:286
+Age:2.1
+}
+}

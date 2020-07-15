@@ -1,0 +1,13 @@
+Flight:2020-01-06,AAAA00003
+{
+DepartureAirport:Nanning
+ArrivalAirport:Dalian
+DepatureTime:2020-01-06 17:19
+ArrivalTime:2020-01-06 18:47
+Plane:B1554
+{
+Type:B787
+Seats:428
+Age:26.1
+}
+}

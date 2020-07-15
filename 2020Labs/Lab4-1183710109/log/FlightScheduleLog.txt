@@ -1,0 +1,16 @@
+May 19, 2020 10:03:31 AM apps.FlightScheduleApp readFile.
+INFO: Success.
+May 19, 2020 10:03:31 AM apps.FlightScheduleApp readFile.
+INFO: Success.
+May 19, 2020 10:03:37 AM apps.FlightScheduleApp visualization.
+INFO: Success.
+May 19, 2020 10:03:37 AM apps.FlightScheduleApp visualization.
+INFO: Success.
+May 19, 2020 10:04:03 AM apps.FlightScheduleApp addPlanningEntry.
+INFO: Success.
+May 19, 2020 10:04:33 AM apps.FlightScheduleApp lambda$11.
+INFO: Success.
+May 19, 2020 10:04:38 AM apps.FlightScheduleApp allocateResource.
+INFO: Success.
+May 19, 2020 10:05:06 AM apps.FlightScheduleApp lambda$12.
+WARNING: { number='B6863', strType='A319', intSeats='140', age='8.5'} is shared.

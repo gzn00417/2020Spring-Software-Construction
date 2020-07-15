@@ -1,0 +1,13 @@
+Flight:2020-01-16,AA018
+{
+DepartureAirport:Beijing
+ArrivalAirport:Harbin
+DepatureTime:2020-01-16 20:40
+ArrivalTime:2020-01-16 22:51
+Plane:B6967
+{
+Type:A340
+Seats:332
+Age:23.7
+}
+}

@@ -1,0 +1,48 @@
+May 19, 2020 11:17:40 AM apps.FlightScheduleApp readFile
+INFO: Read File.
+May 19, 2020 11:17:40 AM apps.FlightScheduleApp readFile
+INFO: Success.
+May 19, 2020 11:17:57 AM apps.FlightScheduleApp readFile
+INFO: Read File.
+May 19, 2020 11:17:57 AM apps.FlightScheduleApp readFile
+INFO: Success.
+May 19, 2020 11:17:59 AM apps.FlightScheduleApp visualization
+INFO: Visualization.
+May 19, 2020 11:17:59 AM apps.FlightScheduleApp visualization
+INFO: Success.
+May 19, 2020 11:33:21 AM apps.FlightScheduleApp readFile
+INFO: Read File.
+May 19, 2020 11:33:22 AM apps.FlightScheduleApp readFile
+INFO: Success.
+May 19, 2020 11:39:51 AM apps.FlightScheduleApp readFile
+INFO: Read File.
+May 19, 2020 11:39:51 AM apps.FlightScheduleApp readFile
+INFO: Success.
+May 19, 2020 11:39:54 AM apps.FlightScheduleApp visualization
+INFO: Visualization.
+May 19, 2020 11:39:54 AM apps.FlightScheduleApp visualization
+INFO: Success.
+May 19, 2020 11:40:51 AM apps.FlightScheduleApp readFile
+INFO: Read File.
+May 19, 2020 11:40:51 AM apps.FlightScheduleApp readFile
+INFO: Success.
+May 19, 2020 11:40:53 AM apps.FlightScheduleApp visualization
+INFO: Visualization.
+May 19, 2020 11:40:53 AM apps.FlightScheduleApp visualization
+INFO: Success.
+May 19, 2020 11:42:48 AM apps.FlightScheduleApp readFile
+INFO: Read File.
+May 19, 2020 11:42:48 AM apps.FlightScheduleApp readFile
+INFO: Success.
+May 19, 2020 11:42:49 AM apps.FlightScheduleApp visualization
+INFO: Visualization.
+May 19, 2020 11:42:49 AM apps.FlightScheduleApp visualization
+INFO: Success.
+May 19, 2020 11:57:48 AM apps.FlightScheduleApp readFile
+INFO: Read File.
+May 19, 2020 11:57:48 AM apps.FlightScheduleApp readFile
+INFO: Success.
+May 19, 2020 11:57:50 AM apps.FlightScheduleApp visualization
+INFO: Visualization.
+May 19, 2020 11:57:50 AM apps.FlightScheduleApp visualization
+INFO: Success.

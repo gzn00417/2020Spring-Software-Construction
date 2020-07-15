@@ -1,0 +1,12 @@
+Activity:2020-04-02,1
+{
+Room:Zhengxin44
+BeginningTime:2020-04-02 10:00
+EndingTime:2020-04-02 12:00
+Document:A4
+{
+DocName:Software Construction
+PublishDepartment:HIT
+PublishDate:2000-01-01
+}
+}
